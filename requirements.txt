@@ -1,2 +1,10 @@
 reportlab
 streamlit
+openai
+langchain
+langchain_openai
+langchain_core
+langchain_community
+python_dotenv
+rootpath
+git+https://github.com/sjvasquez/handwriting-synthesis.git#egg=handwriting-synthesis
